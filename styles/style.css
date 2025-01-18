@@ -1,0 +1,130 @@
+/* Google Fonts */
+.work-sans-primary_font {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+/* Reset all browser default margin and padding to 0 */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* shared styles */
+.heading1{
+    font-size: 64px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.heading2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #101010;
+}
+.heading3{
+    font-size: 40px;
+    font-weight: 600;
+    color: #101010;
+}
+.heading4{
+    font-size: 32px;
+    font-weight: 600;
+    color: #FFFFFF;
+    opacity: .7;
+}
+.heading5{
+    font-size: 32px;
+    font-weight: 600;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.heading6{
+    font-size: 24px;
+    font-weight: 500;
+    color: #101010;
+    opacity: 0.6;
+}
+
+.paragraph1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #101010;
+    opacity: 0.6;
+}
+.paragraph2
+{
+    font-size: 18;
+    font-weight: 500;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+
+.button1{
+    background-color: #52C303;
+    border-radius: 8px;
+    padding: 21px 32px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;     
+}
+.button2{
+    background-color: rgba(82, 195, 3, 0.15);
+    padding: 14px 32px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 24px;
+    font-weight: 600;
+    color: #101010;   
+}
+
+/* Banner Section */
+#banner_section{
+    background: linear-gradient(0.00deg, rgb(9, 9, 9) 2.884%,rgba(16, 16, 16, 0) 101.034%), url(/assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 919px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_container{
+    width: 1023px;
+    height: 391px;
+    text-align: center;
+}
+.banner_subheader{
+    margin-bottom: 16px;
+}
+.banner_header{
+    margin-bottom: 24px;
+}
+.banner_text{
+    margin-bottom: 32px; 
+}
+/* or you can write
+ #banner_section {
+    background: linear-gradient(0.00deg, rgb(9, 9, 9) 2.884%,rgba(16, 16, 16, 0) 101.034%), url(/assets/hero-bg.png);
+    height: 919px;
+    background-size: cover;
+    background-position: center;
+}
+.banner_container{
+    width: 1023px;
+    height: 391px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 230px;
+}
+.banner_subheader{
+    margin-bottom: 16px;
+}
+.banner_header{
+    margin-bottom: 24px;
+}
+.banner_text{
+    margin-bottom: 32px; 
+} */
