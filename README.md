@@ -29,8 +29,8 @@ These values are helpful when I use Figma to analyze and replicate the design in
 ### 4. Setting Font Awesome:
   - Collectkit a kit from the font Awesome website and paste the kit <script> tag in the <head> section above the style.css link
 
-### 5. Using IMGBD to upload images:
-  - If the images are not shown on the GitHub live site Use IMGBD to upload the images and use the provided link in src attribute in the <img> tag.
+### 5. Using IMGBB to upload images:
+  - If the images are not shown on the GitHub live site Use IMGBB to upload the images and use the provided link in src attribute in the <img> tag.
 <br>
 <br>    
 I am continuously learning and improving myself, so your feedback and suggestions would mean a lot to me. 
