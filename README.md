@@ -3,6 +3,8 @@
 This is a simple web development project created using HTML and CSS, with a focus on learning and applying Flexbox. The primary objective of this project was to implement the fundamental concepts and techniques I have studied over the past few weeks.
 ## Note:
 The website is not responsive. My display resolution is 1600 x 900 pixels, so I designed this webpage based on my screen. For the best viewing experience, please resize your browser window to match this resolution.
+## Project Demo Video:
+https://github.com/user-attachments/assets/e279aeb3-ccd0-4011-85cc-a598cf89699f
 ## Live Site Link:
 https://muhammad-tamim.github.io/web_project1/
 ## What I newly learned while building this project:
